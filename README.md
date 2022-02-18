@@ -54,13 +54,13 @@ if _name_ == '_main_':
 ## MobileRobot Movement image:
 ![git log](v1.png)
 ![git log](v2.jpeg)
-![git log](v3.jpegsss)
+![git log](v3.jpeg)
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/0ic6HVCB15I?feature=share)
+[IMAGE ALT TEXT HERE](https://youtube.com/shorts/0ic6HVCB15I?feature=share)]
 
 <br/>
 <br/>
